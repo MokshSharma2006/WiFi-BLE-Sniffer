@@ -2,7 +2,7 @@
 
 A handheld WiFi + BLE passive reconnaissance tool built on the ESP32-C3 Mini, using its native radio for WiFi monitoring and an NRF24L01+ for BLE advertisement sniffing, with an OLED display and joystick for on-device navigation.
 
-**By Moksh Sharma**
+**By Me**
 
 > ⚠️ **For authorized security research only.** Use this only on networks and devices you own or have explicit permission to test. This tool is strictly **passive** — it never transmits deauthentication frames, injects packets, or jams anything. It observes and reports; it does not disrupt.
 
